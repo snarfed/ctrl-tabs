@@ -7,9 +7,6 @@
         "name": "Mikel Ward",
         "url": "https://mikelward.com"
     },
-    "permissions": [
-        "background"
-    ],
     "background": {
         "scripts": ["background.js"]
     },
