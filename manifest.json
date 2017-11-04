@@ -16,55 +16,64 @@
     "commands": {
         "tab1": {
             "suggested_key": {
-                "default": "Ctrl+1"
+                "default": "Ctrl+1",
+                "mac": "MacCtrl+1"
             },
             "description": "Change to 1st tab"
         },
         "tab2": {
             "suggested_key": {
-                "default": "Ctrl+2"
+                "default": "Ctrl+2",
+                "mac": "MacCtrl+2"
             },
             "description": "Change to 2nd tab"
         },
         "tab3": {
             "suggested_key": {
-                "default": "Ctrl+3"
+                "default": "Ctrl+3",
+                "mac": "MacCtrl+3"
             },
             "description": "Change to 3rd tab"
         },
         "tab4": {
             "suggested_key": {
-                "default": "Ctrl+4"
+                "default": "Ctrl+4",
+                "mac": "MacCtrl+4"
             },
             "description": "Change to 4th tab"
         },
         "tab5": {
             "suggested_key": {
-                "default": "Ctrl+5"
+                "default": "Ctrl+5",
+                "mac": "MacCtrl+5"
             },
             "description": "Change to 5th tab"
         },
         "tab6": {
             "suggested_key": {
-                "default": "Ctrl+6"
+                "default": "Ctrl+6",
+                "mac": "MacCtrl+6"
             },
             "description": "Change to 6th tab"
         },
         "tab7": {
             "suggested_key": {
-                "default": "Ctrl+7"
+                "default": "Ctrl+7",
+                "mac": "MacCtrl+7"
             },
             "description": "Change to 7th tab"
         },
         "tab8": {
             "suggested_key": {
-                "default": "Ctrl+8"
+                "default": "Ctrl+8",
+                "mac": "MacCtrl+8"
             },
             "description": "Change to 8th tab"
         },
         "tab9": {
             "suggested_key": {
-                "default": "Ctrl+9"
+                "default": "Ctrl+9",
+                "mac": "MacCtrl+9"
             },
             "description": "Change to last tab"
         }
